@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "supplier-portal"
+  x-cortex-tag: "supplier-portal"
+  x-cortex-description: "Self-service supplier onboarding and data portal"
+  x-cortex-owners:
+    - type: group
+      name: "Supplier & Pricing Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001404"
+    apm_name: "Supplier Integration Platform"
+    cost_center: "CC-4420"
